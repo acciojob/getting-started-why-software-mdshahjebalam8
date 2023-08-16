@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+#text {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #333;
+  padding: 10px;
+  border: 1px solid #666;
+}
